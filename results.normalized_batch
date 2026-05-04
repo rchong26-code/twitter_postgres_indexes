@@ -1,10 +1,6 @@
-time="2025-05-03T01:39:19-07:00" level=warning msg="/home/rchong26-code/twitter_postgres_indexes/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
-sql.normalized_batch/01.sql pass
-sql.normalized_batch/02.sql pass
-sql.normalized_batch/03.sql pass
-sql.normalized_batch/04.sql pass
-sql.normalized_batch/05.sql pass
+time="2026-05-04T01:13:25-07:00" level=warning msg="/home/Renee.Chong.26/twitter_postgres_indexes/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+service "pg_normalized_batch" is not running
 
-real	0m2.251s
-user	0m0.077s
-sys	0m0.065s
+real	0m0.105s
+user	0m0.083s
+sys	0m0.055s
