@@ -5,6 +5,6 @@ sql.normalized_batch/03.sql pass
 sql.normalized_batch/04.sql pass
 sql.normalized_batch/05.sql pass
 
-real	1m40.206s
+real	0m3.206s
 user	0m0.092s
 sys	0m0.068s
